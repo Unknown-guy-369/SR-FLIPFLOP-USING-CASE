@@ -1,3 +1,5 @@
+## Reg.no : 24900880
+## Name :Abishek Priyan M
 # SR-FLIPFLOP-USING-CASE
 
 **AIM:**
@@ -34,15 +36,27 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.Generate the timing diagram for different input combinations.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![image](https://github.com/user-attachments/assets/fc5469f0-fbaf-4558-a862-3e95d12f2d71)
+
 
 **RTL LOGIC FOR FLIPFLOPS**
+![393473456-8ac177dd-df95-450a-a665-bcdc3b8b36d7](https://github.com/user-attachments/assets/ba5ae8a1-603b-4622-96dd-7655cbadd464)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![393473473-78beaef5-9e25-47cb-be6f-4aadf5363a51](https://github.com/user-attachments/assets/d6680633-80f5-422a-b5cd-efad6e7d38b1)
 
 **RESULTS**
+
+The observation of the simulation results and confirm the successful execution of the program.
